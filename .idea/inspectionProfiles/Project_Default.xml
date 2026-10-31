@@ -1,0 +1,23 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="pydevd-pycharm" />
+          <option value="pytest" />
+          <option value="mlaas-shared-module" />
+          <option value="wheel" />
+          <option value="build" />
+          <option value="ibis-framework" />
+          <option value="polars" />
+          <option value="pandas" />
+          <option value="pyarrow" />
+          <option value="pandera" />
+          <option value="python-dotenv" />
+          <option value="duckdb" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
